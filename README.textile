@@ -1,0 +1,1 @@
+XMLHttpRequest Wrapper. Allows you to use REST in Flash.
